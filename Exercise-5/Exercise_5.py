@@ -1,5 +1,5 @@
 # programming to solve population model and provide a diagrammatic analysis
-# written by whuCanon, last modified on 2016/03/19
+
 
 from pylab import *
 import math
